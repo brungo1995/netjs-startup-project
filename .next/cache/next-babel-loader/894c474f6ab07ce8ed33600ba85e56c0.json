@@ -1,0 +1,1 @@
+{"ast":null,"code":"import comments from '../../comments.json';\nexport default ((req, res) => {\n  res.status(200).json(comments);\n});","map":null,"metadata":{},"sourceType":"module"}
